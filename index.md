@@ -1,12 +1,25 @@
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 # This is a header of `First` sclale <sup>very</sup><sub>nice</sub><sup>indeed</sup> 
 ## Just a ~~Second~~ order header ⚔️
 ### Order By **Three** they come (If it was actually a good game)
 #### Order *Four* (not that fantastic)
 ##### "**_Fifthy Cent_**" Order 💱
 ###### ***Excecute Order 66*** 👽🌩️
+
+```c
+#include <stdio.h>
+int main(){
+  printf("Salutations World!\n");
+  return 0;
+}
+```
+```
+[archlinux@arch ~]$ sudo pacman -Syu
+:: Synchronizing package databases...
+core is up to date
+extra is up to date
+multilib            192.1 KiB    62 KiB/s  00:00[####################################################################]100%
+[archlinux@arch ~]$ _
+```
 
 - [ ] This 
 - [ ] Check 
@@ -33,3 +46,7 @@
 
 [^1]: Understand?
 [^2]: I heard my Italian Neighbours dont like it 😉
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
