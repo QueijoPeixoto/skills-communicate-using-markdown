@@ -1,3 +1,6 @@
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # This is a header of `First` sclale <sup>very</sup><sub>nice</sub><sup>indeed</sup> 
 ## Just a ~~Second~~ order header ⚔️
 ### Order By **Three** they come (If it was actually a good game)
